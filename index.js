@@ -14,3 +14,5 @@ function BoardMember (name, state, training) {
   
   
 }
+
+
