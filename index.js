@@ -3,8 +3,9 @@ function BoardMember (name, state, training) {
   this.homeState = state;
   this.training = training;
   
-  function veto() {
+  this.veto = function () {
     return "No, I must disagree";
-  }
+  };
+
   
 }
