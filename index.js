@@ -16,7 +16,7 @@ function BoardMember (name, state, training) {
   };
   
   this.releasePressStatement = function() {
-    return "you will see great things from Scuber.";
+    return "You will see great things from Scuber.";
   };
   
 }
